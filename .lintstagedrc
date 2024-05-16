@@ -1,0 +1,4 @@
+{
+  "*.{ts,svelte}": "bun lint",
+  "*.html": "bun format"
+}
